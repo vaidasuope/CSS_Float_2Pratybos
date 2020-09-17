@@ -1,0 +1,54 @@
+h1 {
+    background-color: lightskyblue;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2 {
+    background-color: white;
+    text-transform: uppercase;
+}
+.pirma {
+    background-color: beige;
+}
+.antra {
+    background-color: lightcyan;
+}
+.trecia {
+
+    background-color: lightgoldenrodyellow;
+}
+.ketvirta {
+    background-color: lightyellow;
+}
+.penkta {
+    background-color: honeydew;
+}
+.kaina {
+    font-weight: bold;
+}
+.ma {
+    color: deeppink;
+}
+.ek {
+    color: saddlebrown;
+}
+.ke {
+    color: greenyellow;
+}
+.sp {
+    color: blue;
+}
+.ti {
+    color: sienna;
+}
+div {
+    border: darkkhaki 1px solid;
+    float: left;
+    margin: 5px;
+    text-align: center;
+    width: 19%;
+}
+
+
+
+
